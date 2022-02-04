@@ -1,0 +1,11 @@
+{
+  "name": "async-csharp-101",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tslab": "^1.0.15",
+    "typescript": "^4.5.5"
+  }
+}
