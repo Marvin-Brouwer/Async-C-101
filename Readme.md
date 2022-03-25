@@ -7,6 +7,8 @@ This is not meant to teach you everything there is to know about async, it's jus
 [Browse ./books/](./books/) to start reading.  
 The chapters are not necessarily in a particular order. However, 1 through 4 build up towards 4.
 
+Feel free to pull down the repo locally, you'll see that all the code actually run. (plus the pdf loads inline)
+
 ## Some useful resources
 
 - [Async expert course](https://asyncexpert.com/)
